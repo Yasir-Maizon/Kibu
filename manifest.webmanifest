@@ -1,0 +1,20 @@
+{
+ "name": "Kibu",
+ "short_name": "Kibu",
+ "start_url": "index.html",
+ "display": "standalone",
+ "background_color": "#FFFCF7",
+ "theme_color": "#6A3DFF",
+ "icons": [
+  {
+   "src": "assets/img/app-icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/img/app-icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
